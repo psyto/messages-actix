@@ -1,17 +1,22 @@
-use actix_web::{get, post, web, App, HttpResponse, HttpServer, Responder};
+use actix_web::{get, web, App, HttpRequest, HttpServer, Result};
+use serde::Serialize;
+
+#[derive(Serialize)]
+struct IndexResponse {
+    message: String,
+}
 
 #[get("/")]
-async fn hello() -> impl Responder {
-    HttpResponse::Ok().body("Hello world!")
-}
+async fn index(req: HttpRequest) -> Result<web::Json<IndexResponse>> {
+    let hello = req
+        .headers()
+        .get("hello")
+        .and_then(|v| v.to_str().ok())
+        .unwrap_or_else(|| "world");
 
-#[post("/echo")]
-async fn echo(req_body: String) -> impl Responder {
-    HttpResponse::Ok().body(req_body)
-}
-
-async fn manual_hello() -> impl Responder {
-    HttpResponse::Ok().body("Hey there!")
+    Ok(web::Json(IndexResponse {
+        message: hello.to_owned(),
+    }))
 }
 
 pub struct MessageApp {
@@ -24,14 +29,9 @@ impl MessageApp {
     }
     pub async fn run(&self) -> std::io::Result<()> {
         println!("Starting http server: 127.0.0.1:{}", self.port);
-        HttpServer::new(|| {
-            App::new()
-                .service(hello)
-                .service(echo)
-                .route("/hey", web::get().to(manual_hello))
-        })
-        .bind(("127.0.0.1", self.port))?
-        .run()
-        .await
+        HttpServer::new(|| App::new().service(index))
+            .bind(("127.0.0.1", self.port))?
+            .run()
+            .await
     }
 }
