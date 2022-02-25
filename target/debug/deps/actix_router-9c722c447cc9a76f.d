@@ -1,0 +1,12 @@
+/Users/psyto/messages-actix/target/debug/deps/actix_router-9c722c447cc9a76f.rmeta: /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/Users/psyto/messages-actix/target/debug/deps/libactix_router-9c722c447cc9a76f.rlib: /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/Users/psyto/messages-actix/target/debug/deps/actix_router-9c722c447cc9a76f.d: /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs
+
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/lib.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/de.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/path.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/resource.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/router.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/actix-router-0.2.7/src/url.rs:

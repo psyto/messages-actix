@@ -1,0 +1,12 @@
+/Users/psyto/messages-actix/target/debug/deps/httparse-e3a1fe91cef3c9bb.rmeta: /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/lib.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/iter.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/macros.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/mod.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/sse42.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/avx2.rs
+
+/Users/psyto/messages-actix/target/debug/deps/libhttparse-e3a1fe91cef3c9bb.rlib: /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/lib.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/iter.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/macros.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/mod.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/sse42.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/avx2.rs
+
+/Users/psyto/messages-actix/target/debug/deps/httparse-e3a1fe91cef3c9bb.d: /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/lib.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/iter.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/macros.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/mod.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/sse42.rs /Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/avx2.rs
+
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/lib.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/iter.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/macros.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/mod.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/sse42.rs:
+/Users/psyto/.cargo/registry/src/github.com-1ecc6299db9ec823/httparse-1.6.0/src/simd/avx2.rs:
